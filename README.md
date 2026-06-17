@@ -1,130 +1,253 @@
 <div align="center">
 
-# 👾 Syed Muhammad Abis
+# ⚔️ THE CHRONICLES OF ABIS ⚔️
 
-### Unity Game Developer • Programmer • Indie Creator
+### Bearer of the Unity Flame
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Unity+Game+Developer;Mobile+Game+Specialist;47%2B+Completed+Projects;Fiverr+Seller;Future+Game+Studio+Founder" />
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=24&pause=2000&color=9D4EDD&center=true&vCenter=true&width=700&lines=Unity+Developer;Boss+Slayer;Mobile+Game+Creator;47%2B+Completed+Projects;Fiverr+Mercenary;Future+Studio+Founder" />
 
-</div>
+<br>
 
----
-
-## 🚀 About Me
-
-🎮 Computer Science Student from Pakistan
-
-🕹️ Unity Developer with **4+ years of experience**
-
-📱 Specialized in **Mobile Game Development**
-
-👨‍💻 Built **47+ Game Projects**
-
-🌟 Fiverr Seller
-
-👥 Team Lead on Multiple Collaborative Projects
-
-🔥 Passionate about Hyper-Casual, Shooter, Tower Defense, Strategy and Stealth Games
-
----
-
-## ⚡ Developer Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SyedMuhammadAbis&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SyedMuhammadAbis&theme=tokyonight&hide_border=true" height="180"/>
+<img src="./assets/banner.gif">
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+# 📜 Character Sheet
 
-### Game Development
+```yaml
+Name: Syed Muhammad Abis
+Class: Unity Developer
 
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity)
-![C Sharp](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender)
+Soul Level: 47
 
-### Programming
+Origin:
+  - Computer Science Student
+  - Indie Developer
+  - Team Leader
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+Covenants:
+  - Fiverr
+  - GitHub
+  - Pakistani Game Dev Community
 
-### Creative Tools
+Primary Weapons:
+  - Unity
+  - C#
+  - Git
 
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop)
-![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro)
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-233A51?style=for-the-badge&logo=davinciresolve)
-
----
-
-## 🏆 Featured Projects
-
-### 🍯 Pickle Former
-A 3D platformer where a pickle rises from the ashes and begins an epic adventure.
-
-### 🌈 Rainbow Rollie
-A satisfying puzzle platformer built around momentum and exploration.
-
-### 🐐 Baqra Surfer
-A goat escapes the market and runs for freedom.
-
-### 🏰 Cartoon Defence TD
-A tower defense game mixed with dungeon crawler mechanics.
-
-### 🥊 STREET Surge
-A fighting game inspired by Street Fighter and Tekken with transformation mechanics.
+Secondary Weapons:
+  - Blender
+  - Photoshop
+  - Premiere Pro
+```
 
 ---
 
-## 📈 Activity Graph
+# 🔥 Bonfire Stats
 
-[![Abis github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SyedMuhammadAbis&theme=tokyo-night)](https://github.com/SyedMuhammadAbis)
-
----
-
-## 🎯 Current Goals
-
-- Build larger commercial games
-- Expand Fiverr business
-- Release polished Steam projects
-- Grow the Pakistani game development community
-- Launch my own indie game studio
+| Attribute | Level |
+|------------|---------|
+| Unity | ██████████ 95 |
+| Gameplay Programming | █████████░ 90 |
+| Mobile Development | █████████░ 90 |
+| Problem Solving | █████████░ 90 |
+| Blender | ██████░░░░ 60 |
+| Art & UI | ███████░░░ 70 |
 
 ---
 
-## 🌍 Connect With Me
+# ⚔️ Bosses Defeated
+
+## 👑 STREET SURGE
+
+Difficulty:
+🔥🔥🔥🔥🔥
+
+Description:
+A fighting game inspired by classic arena fighters with transformation mechanics.
+
+Reward:
++15000 Souls
+
+---
+
+## 🏰 CARTOON DEFENCE TD
+
+Difficulty:
+🔥🔥🔥🔥
+
+Reward:
++12000 Souls
+
+---
+
+## 🥒 PICKLE FORMER
+
+Difficulty:
+🔥🔥🔥
+
+Reward:
++9000 Souls
+
+---
+
+## 🌈 RAINBOW ROLLIE
+
+Difficulty:
+🔥🔥🔥
+
+Reward:
++8500 Souls
+
+---
+
+## 🐐 BAQRA SURFER
+
+Difficulty:
+🔥🔥
+
+Reward:
++7000 Souls
+
+---
+
+# 🏆 Achievements Unlocked
+
+☑ First Fiverr Client
+
+☑ 47+ Completed Projects
+
+☑ 26+ GitHub Repositories
+
+☑ Team Leadership
+
+☑ Mobile Game Specialist
+
+☑ Community Administrator
+
+☑ Multiple Published Games
+
+---
+
+# 🗺️ Current Quests
+
+### Defeat the Steam Release Boss
+
+████████░░ 80%
+
+---
+
+### Forge an Indie Studio
+
+██████░░░░ 60%
+
+---
+
+### Expand Freelance Kingdom
+
+█████████░ 90%
+
+---
+
+### Master Multiplayer Systems
+
+████░░░░░░ 40%
+
+---
+
+# 🧙 Spellbook
 
 <p align="center">
 
-<a href="https://github.com/SyedMuhammadAbis">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/syed-muhammad-abis-2a989b31a/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://linktr.ee/SyedMuhammadAbisDev">
-<img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree"/>
-</a>
-
-<a href="https://www.youtube.com/@blacknwhitedev">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube"/>
-</a>
+<img src="https://skillicons.dev/icons?i=unity,cs,cpp,git,github,blender,visualstudio"/>
 
 </p>
 
 ---
 
+# 🐍 The Curse of Commits
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+
+</p>
+
+---
+
+# 📈 Souls Gathered
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SyedMuhammadAbis&show_icons=true&theme=dark">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SyedMuhammadAbis&theme=dark">
+
+</p>
+
+---
+
+# 🌑 World State
+
+```diff
++ Current Status: Online
+
++ Estus Remaining: 5
+
++ Humanity: Restored
+
++ Bonfire Lit
+
++ Building Games...
+```
+
+---
+
+# 📡 Summon Sign
+
+```bash
+$ summon_developer
+
+Status    : Available
+
+Class     : Unity Developer
+
+Region    : Pakistan
+
+Specialty : Mobile Games
+
+Soul Sign : Open
+```
+
+---
+
+# 🏰 Kingdom Links
+
+Portfolio:
+https://syedmuhammadabis.github.io/abis-portfolio/
+
+GitHub:
+https://github.com/SyedMuhammadAbis
+
+LinkedIn:
+https://www.linkedin.com/in/syed-muhammad-abis-2a989b31a/
+
+Linktree:
+https://linktr.ee/SyedMuhammadAbisDev
+
+YouTube:
+https://www.youtube.com/@blacknwhitedev
+
+---
+
 <div align="center">
 
-### 💬 "Games aren't just software. They're experiences."
+### "Don't You Dare Go Hollow."
 
-<img src="https://komarev.com/ghpvc/?username=SyedMuhammadAbis&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+Visitor Count
+
+<img src="https://komarev.com/ghpvc/?username=SyedMuhammadAbis&style=for-the-badge">
 
 </div>
